@@ -157,6 +157,9 @@ public class QuerydslBasicTest {
         assertThat(member6.getUsername()).isEqualTo("member6");
         assertThat(memberNull.getUsername()).isNull();
 
+
+
+
     }
 
 }
